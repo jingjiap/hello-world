@@ -1,2 +1,3 @@
 ### hellow world file
-print "Hello World"
+print("Hello World\n")
+print("My name is Hobot")
